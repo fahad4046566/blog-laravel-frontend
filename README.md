@@ -28,7 +28,6 @@ A modern, responsive blog frontend built with React, TailwindCSS, and DaisyUI. T
 | React Router DOM | Routing |
 | React Hook Form | Form handling |
 | Axios | API requests |
-| TanStack Query | Data fetching & caching |
 | React Icons | Icons |
 
 ---
